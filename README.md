@@ -607,7 +607,6 @@ __Explicación:__
 * `PS_VERSION`: versión de PrestaShop que se descarga. Fijarla hace que se despliegue siempre igual.
 * `PS_NOMBRE_TIENDA`, `PS_NOMBRE_ADMIN` y `PS_APELLIDOS_ADMIN`: datos de la tienda y del administrador.
 * `PS_PAIS` y `PS_IDIOMA`: tienda en español para España.
-* `PS_CARPETA_ADMIN`: nuevo nombre para la carpeta del panel de administración, por seguridad.
 
 ### 7.2 Script `deploy_prestashop.sh`
 
